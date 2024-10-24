@@ -87,7 +87,7 @@ public class NEW_PATIENT extends JFrame implements ActionListener {
         panel.add(textName);
 
 
-        JLabel labelGender = new JLabel("Gander :");
+        JLabel labelGender = new JLabel("Gender :");
         labelGender.setBounds(35,191,200,14);
         labelGender.setFont(new Font("Tahoma",Font.BOLD,14));
         labelGender.setForeground(Color.white);
