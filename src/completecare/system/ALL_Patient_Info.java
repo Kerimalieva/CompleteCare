@@ -90,7 +90,7 @@ public class ALL_Patient_Info extends JFrame {
         setUndecorated(true);
         setSize(900,600);
         setLayout(null);
-        setLocation(430,100);
+        setLocation(300,200);
         setVisible(true);
 
     }

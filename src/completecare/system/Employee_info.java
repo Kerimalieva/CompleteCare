@@ -13,7 +13,7 @@ public class Employee_info extends JFrame {
     Employee_info(){
 
         JPanel panel = new JPanel();
-        panel.setBounds(5,5,998,590);
+        panel.setBounds(5,5,990,590);//998
         panel.setBackground(new Color(109,164,170));
         panel.setLayout(null);
         add(panel);
@@ -36,7 +36,7 @@ public class Employee_info extends JFrame {
 
 
         JLabel label1 = new JLabel("Name");
-        label1.setBounds(41,9,70,20);
+        label1.setBounds(41,11,70,20);//y = 9
         label1.setFont(new Font("Tahoma",Font.BOLD,14));
         panel.add(label1);
 
